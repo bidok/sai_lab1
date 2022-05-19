@@ -11,7 +11,7 @@ import java.util.Map;
 
 public class FuzzyLogic {
 	public static void main(String[] args) {
-
+		//test
 		Map<Double, String> map = new HashMap<>();
 		double n = 80;
 		double s = 1.0/(1.0+Math.pow((n-30)/12, 12));
